@@ -1,3 +1,3 @@
 # dash1
-# github url:
+# github url: https://github.com/MMOOXXIII/dash1
 # heroku url: https://moxi.herokuapp.com/ 
